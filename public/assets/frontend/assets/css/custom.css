@@ -1,0 +1,29 @@
+footer .footer-middle{
+    background-color: #333;
+    color: white;
+}
+
+footer .footer-middle p {
+    color: rgb(240, 240, 240) !important;
+}
+
+.footer-middle h4 {
+    color: #fcb941 !important;
+}
+
+p,span,a,li {
+    font-size: 16px;
+}
+
+header .header-right .lang {
+    width: 135px;
+    border-radius: 10px;
+}
+
+header .header-right .lang a {
+    justify-content:center
+}
+
+.header-middle .logo img {
+    border-radius: 50%;
+}
